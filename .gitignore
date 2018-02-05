@@ -1,3 +1,13 @@
+#project specific
+
+tmp
+testtracks*
+JamManStereo*
+
+#ide
+.idea
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
